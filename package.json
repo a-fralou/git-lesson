@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/a-fralou/git-lesson/issues"
   },
-  "homepage": "https://github.com/a-fralou/git-lesson#readme"
+  "homepage": "https://github.com/a-fralou/git-lesson#readme",
+  "dependencies": {
+    "parcel": "^2.7.0"
+  }
 }
